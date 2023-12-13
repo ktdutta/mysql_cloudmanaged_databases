@@ -20,7 +20,7 @@ I next created my instance on Azure and below is a screenshot of my settings.
 
 ## MySQL Workbench for Database Interaction
 
-For both the Azure and GCP instances created, the same dataset was created and used in mySQL Workbench in order to generate the Entity-Relationship Diagram. 
+For both Azure and GCP a seperate connection was made and connected to MySQL Workbench where I created and used the same Entity-Relationship Diagram in each seperate connection. Below are the steps taken to create the ERD.
 
 ### MySQL Workbench Entity-Relationship Diagram 
 
